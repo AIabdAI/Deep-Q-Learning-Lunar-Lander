@@ -72,8 +72,4 @@ The agent starts with random actions, receiving low rewards or penalties for cra
 ## 👨‍💻 Created by
 **Abdallah A. M. Iqelan**
 
----
-
-## 📜 License
-MIT License. Use and modify freely.
 
